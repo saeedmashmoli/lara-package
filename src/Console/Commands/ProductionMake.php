@@ -2,7 +2,6 @@
 
 namespace ITB\LaraPackage\Console\Commands;
 
-use Composer\Config;
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Config;
 use Symfony\Component\Process\Process;
