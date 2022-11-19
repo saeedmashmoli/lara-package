@@ -1,0 +1,48 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "e6ddc42cab93aa6de5fce579ff554aeb",
+    "packages": [
+        {
+            "name": "hpourabbas/laravel-production",
+            "version": "v1",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:hpourabbas/laravel-production.git",
+                "reference": "c90a12e054066d921e025e50cd13d0866156837e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/hpourabbas/laravel-production/zipball/c90a12e054066d921e025e50cd13d0866156837e",
+                "reference": "c90a12e054066d921e025e50cd13d0866156837e",
+                "shasum": "",
+                "mirrors": [
+                    {
+                        "url": "https://hadi-pourabbas.repo.repman.io/dists/%package%/%version%/%reference%.%type%",
+                        "preferred": true
+                    }
+                ]
+            },
+            "type": "library",
+            "notification-url": "https://hadi-pourabbas.repo.repman.io/downloads",
+            "description": "Implements command: z-production:make",
+            "support": {
+                "source": "https://github.com/hpourabbas/laravel-production/tree/v1",
+                "issues": "https://github.com/hpourabbas/laravel-production/issues"
+            },
+            "time": "2022-11-18T18:43:50+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.2.0"
+}

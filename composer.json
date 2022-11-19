@@ -1,0 +1,20 @@
+{
+    "name": "itb/lara-package",
+    "description": "this is test larapackage",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "ITB\\LaraPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Saeed Mashmooli",
+            "email": "saeedmashmoli1416@gmail.com"
+        }
+    ],
+    "require": {},
+    "repositories": [
+        {"type": "composer", "url": "https://hadi-pourabbas.repo.repman.io"}
+    ]
+}
